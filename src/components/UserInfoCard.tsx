@@ -52,7 +52,7 @@ const UserInfoCard = ({ userId }: { userId: string }) => {
           <div className="flex gap-1 items-center">
             <Image src="/date.png" alt="Map" width={16} height={16} />
             <span>
-              Joined <b>3 January 2026</b>
+              Joined <b>January 2026</b>
             </span>
           </div>
         </div>
